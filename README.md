@@ -23,7 +23,7 @@
 
 ## Introduction
 
-In this exercise you will practice working with props - passing data to React components through props and accessing and using the props data within the components.
+In this exercise, you will practice working with 'props' in React. You'll learn how to pass data to React components using props, and how to access and utilize the data received through props inside components.
 
 To see the expected result for each iteration, refer to the solution example: [**React Training - solution**](https://5c6c2a0de07b084ce35373ee--determined-aryabhata-a8a833.netlify.com/).
 
